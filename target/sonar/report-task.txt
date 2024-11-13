@@ -1,0 +1,6 @@
+projectKey=com.accenture.training:Abstraction
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.training:Abstraction
+ceTaskId=AZMlE0CE3is97Vk74RQZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZMlE0CE3is97Vk74RQZ
